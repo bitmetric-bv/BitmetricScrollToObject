@@ -1,0 +1,15 @@
+{
+  "name": "Scroll to object",
+  "description": "A button to scroll to smoothly scroll to a specific object on the same sheet, or back to the top of the sheet.",
+  "type": "visualization",
+  "icon": "extension",
+  "version": "1.0.0",
+  "author": "Barry Harmsen | Bitmetric",
+  "preview": "preview.png",
+  "tags": ["utility", "navigation"],
+  	"bundle": {
+		"id": "bitmetric",
+		"name": "Bitmetric",
+		"description": "From your friends at Bitmetric"
+    }
+}
